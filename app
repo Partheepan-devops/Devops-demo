@@ -9,3 +9,4 @@ step 6 : clone my repo into  my local server.
 branching : created a new branch in our local machine.
 merging : merge the branch into main branch
 
+Merge conflicts - added a new line.
